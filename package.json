@@ -2,15 +2,19 @@
   "name": "guessgame",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
+  "homepage": "https://tsonverdi.github.io/GuessGame",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build"
   },
   "dependencies": {
     "@react-navigation/native": "^6.1.8",
     "@react-navigation/native-stack": "^6.9.14",
+    "eas-cli": "^5.7.0",
     "expo": "~49.0.12",
     "expo-status-bar": "~1.6.0",
     "react": "18.2.0",
@@ -20,7 +24,8 @@
     "react-native-toast-message": "^2.1.6"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "gh-pages": "^6.0.0"
   },
   "private": true
 }

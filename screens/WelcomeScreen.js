@@ -20,7 +20,7 @@ const WelcomeScreen = () => {
       <Text style={styles.text}>Guess the number between{" "}
       {gameRules.randomNumberDownLimit}-{gameRules.randomNumberUpLimit}{" "} 
       in {gameRules.totalTime} seconds and{" "}
-      you have {gameRules.totalShot} shows</Text>
+      you have {gameRules.totalShot} shots</Text>
     <Spacer/>
     <IconButton style={{backgroundColor:colors.color1}} title="Start Game" 
     icon="play" 
