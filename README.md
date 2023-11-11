@@ -18,8 +18,18 @@ in the terminal, the application will start running.
 
 - CSS3
 
-[Screenshot_1699699111](https://github.com/tsonverdi/GuessGame/assets/92997075/d8bcb0b9-d258-43e2-9c9a-a3e17701b5c8)
-[Screenshot_1699699096](https://github.com/tsonverdi/GuessGame/assets/92997075/47090bf0-5be1-4af7-b063-22acdd443df7)
-[Screenshot_1699699086](https://github.com/tsonverdi/GuessGame/assets/92997075/0dd91e69-6c25-4560-8721-d8c16bf22bc5)
+# Snapshots
+  
+## [Welcome Screen](https://github.com/tsonverdi/GuessGame/assets/92997075/0dd91e69-6c25-4560-8721-d8c16bf22bc5)
+## [Game Screen](https://github.com/tsonverdi/GuessGame/assets/92997075/47090bf0-5be1-4af7-b063-22acdd443df7)
+## [Result Screen](https://github.com/tsonverdi/GuessGame/assets/92997075/d8bcb0b9-d258-43e2-9c9a-a3e17701b5c8)
+
+
+
+[Video](https://github.com/tsonverdi/GuessGame/assets/92997075/1412ab0e-da48-48e1-acc0-8ffc6feb0394)
+
+
+
+
 
 
